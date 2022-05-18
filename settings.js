@@ -9,24 +9,24 @@ global.APIs = {
 
 //Api Key\\
 global.APIKeys = {
-	'https://zenzapis.xyz': 'd6295ca53e', // if api key expire, buy it and put it here?\\
+	'https://zenzapis.xyz': '867fe8d278', // if api key expire, buy it and put it here?\\
 }
 
 //customize settings\\
-global.owner = ['923087880256']
-global.premium = ['923087880256']
-global.ownernomer = '923087880256'
-global.ownername = 'Eximinati'
-global.botname = 'Ari-Ani'
-global.footer = '©Eximinati.'
+global.owner = ['923259609039']
+global.premium = ['923259609039']
+global.ownernomer = '923259609039'
+global.ownername = 'Alι_Aryαɴ'
+global.botname = 'Texas-Bot'
+global.footer = '2022'
 global.ig = 'https://github.com/Eximinati'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Eximinati/Miku_Private'
 global.myweb = 'https://www.youtube.com/c/GAMINGDUDES_GD'
-global.packname = '🍷💫'
-global.author = 'by Ari-Ani fans'
-global.sessionName = 'session'
-global.prefa = ['','!','.','#','.']
+global.packname = '𝙃𝙚𝙘𝙠𝙚𝙧 𝙏𝙚𝙭𝙖𝙨'
+global.author = '¯\_(ツ)_/¯'
+global.sessionName = 'Texas-Bot'
+global.prefa = ['/','!']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
